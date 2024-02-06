@@ -1,0 +1,21 @@
+/* GENERAL */
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&family=Saira+Semi+Condensed:wght@600&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Rubik Maps', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4;
+  padding-top: 80px;
+}
+
